@@ -1,8 +1,9 @@
 ## Introdução
-
 A proposta do exercício de front-end da **Brainn** é ser simples e divertido.
-
 <br>
+
+### Link Surge:
+http://languid-lawyer.surge.sh/
 
 ## Exercício
 
@@ -25,6 +26,3 @@ O objetivo foi construir uma **aplicação web front-end** que mostre os **Resul
 
 ### Tecnologias
 <img align="center" alt="Paty-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-### Link Surge
-http://languid-lawyer.surge.sh/
